@@ -1,0 +1,2 @@
+# blog.html
+information blog
